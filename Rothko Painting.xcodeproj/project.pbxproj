@@ -6,10 +6,19 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		90F649C62D0E2A6C00531E56 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		90F649C72D0E2A7300531E56 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		90F649C82D0E2A7E00531E56 /* Rothko Painting.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Rothko Painting.txt"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		90F649BF2D0E2A6300531E56 = {
 			isa = PBXGroup;
 			children = (
+				90F649C82D0E2A7E00531E56 /* Rothko Painting.txt */,
+				90F649C72D0E2A7300531E56 /* styles.css */,
+				90F649C62D0E2A6C00531E56 /* index.html */,
 			);
 			sourceTree = "<group>";
 		};
